@@ -1,5 +1,5 @@
 print ("hello world")
 print ("hi")
 print ("OK")
-print ("YoYo")
-print ("ABC")
+print ("good")
+a = 1
